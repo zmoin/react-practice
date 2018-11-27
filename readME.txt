@@ -1,0 +1,1 @@
+Just trying to practice a little bit of react in order to learn the framework properly
